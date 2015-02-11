@@ -5,7 +5,8 @@ http://stackoverflow.com/questions/28363935/runing-xctool-on-project-that-has-a-
 
     xctool \
         -project SwiftBuildPhase.xcodeproj \
-        -scheme SwiftBuildPhase build
+        -scheme SwiftBuildPhase \
+        build
 
 -
 
